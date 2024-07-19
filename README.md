@@ -17,14 +17,14 @@ To get started with the app, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/text-editing-app.git
-   cd text-editing-app
+   git clone https://github.com/AnkitSharma745/Editing-Tool
+   cd Editing-Tool
 ```javascript 
-  npm install
+    npm install
 
-``
+```
 ```javascript
- npm run dev 
+    npm run dev 
  ```
  ## Usage
 

@@ -46,14 +46,6 @@ function generateUniqueId(){
     setSelectedTextId(id);
   };
 
-  // Function to handle changes to the text content
-  // const handleTextChange = (newText) => {
-  //   const updatedTexts = texts.map((text) =>
-  //     text.id === selectedTextId ? { ...text, content: newText } : text
-  //   );
-  //   setTexts(updatedTexts);
-  //   saveState();
-  // };
 
   // Function to handle changes to the text color
   const handleColorChange = (newColor) => {
